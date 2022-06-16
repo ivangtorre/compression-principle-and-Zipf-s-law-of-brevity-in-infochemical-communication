@@ -10,12 +10,12 @@ Columns are separated by a comma and the following information is provided:
 * Cs: Indicates the number of Carbons present in the infochemicals
 * CAS: Indicates a unique numerical identifier assigned by the Chemical Abstracts Service (CAS)
 * MW: Mollecular Weight
-feromonas: This is a list that indicates how the infochemical is used. Each item in a list is how a specie uses this chemical 
-especies: This is a list that indicates the specie that uses the infochemical. Length is same as the feremones 
-totaluses: Total different uses of the infochemical (by number of species and the ways that a specie uses it) 
-P: Total uses of infochemical as Pheromones.
-A: Total uses of infochemical as Atractant.
-Al: Total uses of infochemical as Allomone.
-K: Total uses of infochemical as Keiromone
-Sy: Total uses of infochemical as Synomone.
-Alelo: Total uses of infochemical as Alelochemical.
+* feromonas: This is a list that indicates how the infochemical is used. Each item in a list is how a specie uses this chemical 
+* especies: This is a list that indicates the specie that uses the infochemical. Length is same as the feremones 
+* totaluses: Total different uses of the infochemical (by number of species and the ways that a specie uses it) 
+* P: Total uses of infochemical as Pheromones.
+* A: Total uses of infochemical as Atractant.
+* Al: Total uses of infochemical as Allomone.
+* K: Total uses of infochemical as Keiromone
+* Sy: Total uses of infochemical as Synomone.
+* Alelo: Total uses of infochemical as Alelochemical.
