@@ -1,4 +1,6 @@
 # Compression-principle-and-brevity-law-in-infochemical-communication
+https://royalsocietypublishing.org/doi/10.1098/rsbl.2022.0162
+
 This repository implements all the scripts used for processing data, computing and figure generation for the scientific paper: "Compression principle and Zipf’s Law of brevity in infochemical communication". Please cite: A. Hernández-Fernández and I. G. Torre, “Compression principle and Zipf’s Law of brevity in infochemical communication,” Biology Letters, vol. 18, no. 7, Jul. 2022.
 
 
